@@ -7,6 +7,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0008-string-to-integer-atoi) |
 | [0474-ones-and-zeroes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0474-ones-and-zeroes) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Array
 |  |
@@ -48,4 +49,12 @@
 |  |
 | ------- |
 | [2625-increment-submatrices-by-one](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2625-increment-submatrices-by-one) |
+## Sliding Window
+|  |
+| ------- |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+## Enumeration
+|  |
+| ------- |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 <!---LeetCode Topics End-->
