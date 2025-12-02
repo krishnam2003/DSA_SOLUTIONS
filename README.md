@@ -19,6 +19,7 @@
 | [0978-longest-turbulent-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0978-longest-turbulent-subarray) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1590-make-sum-divisible-by-p) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2625-increment-submatrices-by-one](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Hash Table
@@ -38,6 +39,7 @@
 | [0053-maximum-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0474-ones-and-zeroes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0474-ones-and-zeroes) |
 | [0978-longest-turbulent-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0978-longest-turbulent-subarray) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Math
 |  |
 | ------- |
