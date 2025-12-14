@@ -11,6 +11,7 @@
 | [0242-valid-anagram](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0474-ones-and-zeroes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0474-ones-and-zeroes) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1636-number-of-substrings-with-only-1s) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3606-coupon-code-validator) |
@@ -55,11 +56,13 @@
 | [0474-ones-and-zeroes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0474-ones-and-zeroes) |
 | [0978-longest-turbulent-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0978-longest-turbulent-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Math
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1636-number-of-substrings-with-only-1s) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Number Theory
 |  |
