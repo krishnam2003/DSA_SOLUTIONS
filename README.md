@@ -24,6 +24,7 @@
 | [0179-largest-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0179-largest-number) |
 | [0474-ones-and-zeroes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0474-ones-and-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0739-daily-temperatures) |
 | [0978-longest-turbulent-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0978-longest-turbulent-subarray) |
 | [1248-count-number-of-nice-subarrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -110,4 +111,12 @@
 |  |
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3623-count-number-of-trapezoids-i) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
