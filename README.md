@@ -28,6 +28,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0646-maximum-length-of-pair-chain) |
 | [0739-daily-temperatures](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0739-daily-temperatures) |
 | [0978-longest-turbulent-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0978-longest-turbulent-subarray) |
+| [0994-rotting-oranges](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0994-rotting-oranges) |
 | [1248-count-number-of-nice-subarrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1590-make-sum-divisible-by-p) |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
+| [0994-rotting-oranges](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0994-rotting-oranges) |
 | [2625-increment-submatrices-by-one](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2625-increment-submatrices-by-one) |
 ## Sliding Window
 |  |
@@ -135,6 +137,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0994-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
