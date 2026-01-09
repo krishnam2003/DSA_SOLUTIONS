@@ -66,6 +66,7 @@
 | [0474-ones-and-zeroes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0646-maximum-length-of-pair-chain) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0978-longest-turbulent-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0978-longest-turbulent-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -155,6 +156,7 @@
 | [0547-number-of-provinces](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0802-find-eventual-safe-states) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0994-rotting-oranges](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0994-rotting-oranges) |
 ## Union Find
 |  |
@@ -168,10 +170,19 @@
 | [0210-course-schedule-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0547-number-of-provinces) |
 | [0802-find-eventual-safe-states](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0802-find-eventual-safe-states) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0802-find-eventual-safe-states) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Bitmask
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0847-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
