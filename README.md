@@ -115,6 +115,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -180,6 +181,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0191-number-of-1-bits) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Bitmask
 |  |
