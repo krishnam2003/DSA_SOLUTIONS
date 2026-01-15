@@ -20,7 +20,7 @@ public:
             auto [pro, node] = pq.top();
             pq.pop();
 
-            
+            if(pro > dist[node]) continue;
             for(auto [v, pr] : adj[node]){
                 if(dist[v] > dist[node] + pr){
                     dist[v] = dist[node] + pr;
