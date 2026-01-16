@@ -37,6 +37,7 @@
 | [1514-path-with-maximum-probability](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1514-path-with-maximum-probability) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1590-make-sum-divisible-by-p) |
+| [1631-path-with-minimum-effort](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2625-increment-submatrices-by-one](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -105,6 +106,7 @@
 | [0542-01-matrix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 | [2625-increment-submatrices-by-one](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2625-increment-submatrices-by-one) |
 ## Sliding Window
 |  |
@@ -155,6 +157,7 @@
 | [0733-flood-fill](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0802-find-eventual-safe-states) |
+| [1631-path-with-minimum-effort](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -170,6 +173,7 @@
 | [0802-find-eventual-safe-states](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0802-find-eventual-safe-states) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0994-rotting-oranges](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 ## Union Find
 |  |
 | ------- |
@@ -224,10 +228,19 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1514-path-with-maximum-probability) |
+| [1631-path-with-minimum-effort](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Binary Search
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
+## Union-Find
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
