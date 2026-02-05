@@ -152,6 +152,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0207-course-schedule) |
@@ -164,6 +165,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -210,12 +212,14 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
