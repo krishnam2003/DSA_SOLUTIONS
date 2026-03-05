@@ -14,6 +14,7 @@
 | [1636-number-of-substrings-with-only-1s](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2957-remove-adjacent-almost-equal-characters](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3606-coupon-code-validator) |
@@ -83,6 +84,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2957-remove-adjacent-almost-equal-characters](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2957-remove-adjacent-almost-equal-characters) |
 ## Math
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 | [0179-largest-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0179-largest-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0881-boats-to-save-people) |
+| [2957-remove-adjacent-almost-equal-characters](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Counting
 |  |
