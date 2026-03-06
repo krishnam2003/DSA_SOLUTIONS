@@ -15,6 +15,7 @@
 | [0942-di-string-match](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0942-di-string-match) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
