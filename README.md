@@ -16,6 +16,7 @@
 | [1636-number-of-substrings-with-only-1s](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
@@ -87,6 +88,7 @@
 | [0847-shortest-path-visiting-all-nodes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0978-longest-turbulent-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0978-longest-turbulent-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2957-remove-adjacent-almost-equal-characters) |
@@ -137,6 +139,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0978-longest-turbulent-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0978-longest-turbulent-subarray) |
 | [1248-count-number-of-nice-subarrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Enumeration
 |  |
