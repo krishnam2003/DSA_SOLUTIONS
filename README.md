@@ -80,6 +80,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1590-make-sum-divisible-by-p) |
 | [2625-increment-submatrices-by-one](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2625-increment-submatrices-by-one) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2957-remove-adjacent-almost-equal-characters) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Math
 |  |
 | ------- |
