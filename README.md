@@ -105,6 +105,7 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
+| [1622-fancy-sequence](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -323,4 +324,12 @@
 |  |
 | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1622-fancy-sequence) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
