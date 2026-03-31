@@ -60,6 +60,7 @@
 | [1765-map-of-highest-peak](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1765-map-of-highest-peak) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2625-increment-submatrices-by-one](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -279,6 +280,7 @@
 | [0191-number-of-1-bits](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0191-number-of-1-bits) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1009-complement-of-base-10-integer](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1009-complement-of-base-10-integer) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Bitmask
 |  |
 | ------- |
