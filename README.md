@@ -49,6 +49,7 @@
 | [0978-longest-turbulent-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0978-longest-turbulent-subarray) |
 | [0994-rotting-oranges](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0994-rotting-oranges) |
 | [1248-count-number-of-nice-subarrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
+| [1310-xor-queries-of-a-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1310-xor-queries-of-a-subarray) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1514-path-with-maximum-probability](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1514-path-with-maximum-probability) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -92,6 +93,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
+| [1310-xor-queries-of-a-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1310-xor-queries-of-a-subarray) |
 | [1590-make-sum-divisible-by-p](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1590-make-sum-divisible-by-p) |
 | [2625-increment-submatrices-by-one](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2906-construct-product-matrix) |
@@ -280,6 +282,7 @@
 | [0191-number-of-1-bits](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0191-number-of-1-bits) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1009-complement-of-base-10-integer](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1009-complement-of-base-10-integer) |
+| [1310-xor-queries-of-a-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1310-xor-queries-of-a-subarray) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Bitmask
 |  |
