@@ -47,6 +47,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0646-maximum-length-of-pair-chain) |
 | [0733-flood-fill](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0739-daily-temperatures) |
+| [0874-walking-robot-simulation](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0874-walking-robot-simulation) |
 | [0881-boats-to-save-people](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0944-delete-columns-to-make-sorted) |
@@ -87,6 +88,7 @@
 | [0242-valid-anagram](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
+| [0874-walking-robot-simulation](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0874-walking-robot-simulation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1590-make-sum-divisible-by-p) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
@@ -361,6 +363,7 @@
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0874-walking-robot-simulation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
