@@ -128,6 +128,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0069-sqrtx) |
+| [0263-ugly-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0263-ugly-number) |
 | [0836-rectangle-overlap](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1622-fancy-sequence](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1622-fancy-sequence) |
