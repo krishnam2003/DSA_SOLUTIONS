@@ -68,6 +68,7 @@
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2615-sum-of-distances](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2615-sum-of-distances) |
 | [2625-increment-submatrices-by-one](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2906-construct-product-matrix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2906-construct-product-matrix) |
@@ -95,6 +96,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1590-make-sum-divisible-by-p) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
+| [2615-sum-of-distances](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3606-coupon-code-validator](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3623-count-number-of-trapezoids-i) |
@@ -107,6 +109,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1310-xor-queries-of-a-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1310-xor-queries-of-a-subarray) |
 | [1590-make-sum-divisible-by-p](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1590-make-sum-divisible-by-p) |
+| [2615-sum-of-distances](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2615-sum-of-distances) |
 | [2625-increment-submatrices-by-one](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
