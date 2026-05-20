@@ -74,6 +74,7 @@
 | [2540-minimum-common-value](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2615-sum-of-distances) |
 | [2625-increment-submatrices-by-one](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2625-increment-submatrices-by-one) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2784-check-if-array-is-good) |
@@ -105,6 +106,7 @@
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2540-minimum-common-value](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3606-coupon-code-validator](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3606-coupon-code-validator) |
@@ -317,6 +319,7 @@
 | [1009-complement-of-base-10-integer](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1009-complement-of-base-10-integer) |
 | [1310-xor-queries-of-a-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1310-xor-queries-of-a-subarray) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Bitmask
 |  |
 | ------- |
