@@ -27,6 +27,7 @@
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2957-remove-adjacent-almost-equal-characters) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3606-coupon-code-validator) |
@@ -81,6 +82,7 @@
 | [2906-construct-product-matrix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -109,6 +111,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3606-coupon-code-validator](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3623-count-number-of-trapezoids-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -422,4 +425,8 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
