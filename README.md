@@ -86,6 +86,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3606-coupon-code-validator) |
@@ -162,6 +163,7 @@
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3623-count-number-of-trapezoids-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3623-count-number-of-trapezoids-i) |
 ## Number Theory
 |  |
