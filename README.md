@@ -8,6 +8,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0058-length-of-last-word) |
@@ -34,6 +35,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0049-group-anagrams) |
@@ -432,5 +434,6 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0014-longest-common-prefix) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
