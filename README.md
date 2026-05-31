@@ -72,6 +72,7 @@
 | [1765-map-of-highest-peak](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1765-map-of-highest-peak) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2126-destroying-asteroids](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2126-destroying-asteroids) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -181,6 +182,7 @@
 | [0942-di-string-match](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0942-di-string-match) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2126-destroying-asteroids](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2126-destroying-asteroids) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -243,6 +245,7 @@
 | [0881-boats-to-save-people](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0881-boats-to-save-people) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2126-destroying-asteroids](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2943-maximize-area-of-square-hole-in-grid) |
