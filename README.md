@@ -95,6 +95,7 @@
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3623-count-number-of-trapezoids-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -190,6 +191,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Counting
 |  |
 | ------- |
@@ -254,6 +256,7 @@
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3606-coupon-code-validator) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Geometry
 |  |
 | ------- |
@@ -363,6 +366,7 @@
 | [0881-boats-to-save-people](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0942-di-string-match) |
 | [2540-minimum-common-value](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Graph Theory
 |  |
 | ------- |
@@ -393,6 +397,7 @@
 | [2540-minimum-common-value](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2540-minimum-common-value) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Union-Find
 |  |
 | ------- |
