@@ -99,6 +99,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3689-maximum-total-subarray-value-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Hash Table
@@ -198,6 +199,7 @@
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3689-maximum-total-subarray-value-i) |
 ## Counting
 |  |
 | ------- |
