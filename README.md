@@ -461,4 +461,8 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0014-longest-common-prefix) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
