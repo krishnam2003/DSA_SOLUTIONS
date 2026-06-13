@@ -32,6 +32,7 @@
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3606-coupon-code-validator) |
+| [3838-weighted-word-mapping](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3838-weighted-word-mapping) |
 ## Array
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [3689-maximum-total-subarray-value-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3689-maximum-total-subarray-value-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3838-weighted-word-mapping](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -434,6 +436,7 @@
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3838-weighted-word-mapping) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
