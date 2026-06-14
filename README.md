@@ -281,6 +281,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0739-daily-temperatures) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -381,6 +382,7 @@
 | [0455-assign-cookies](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0942-di-string-match) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -461,6 +463,7 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Trie
 |  |
 | ------- |
