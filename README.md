@@ -32,6 +32,7 @@
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3606-coupon-code-validator) |
+| [3612-process-string-with-special-operations-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3838-weighted-word-mapping) |
 ## Array
 |  |
@@ -438,6 +439,7 @@
 | [2075-decode-the-slanted-ciphertext](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3612-process-string-with-special-operations-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3838-weighted-word-mapping) |
 ## Minimum Spanning Tree
