@@ -83,6 +83,7 @@
 | [1732-find-the-highest-altitude](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1765-map-of-highest-peak](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1765-map-of-highest-peak) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2126-destroying-asteroids](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2126-destroying-asteroids) |
@@ -222,6 +223,7 @@
 | [0942-di-string-match](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0942-di-string-match) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
@@ -300,6 +302,7 @@
 | [0881-boats-to-save-people](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0881-boats-to-save-people) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2784-check-if-array-is-good) |
