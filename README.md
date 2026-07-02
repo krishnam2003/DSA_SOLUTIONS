@@ -109,6 +109,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -269,6 +270,7 @@
 | [2906-construct-product-matrix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Sliding Window
@@ -371,6 +373,7 @@
 | [1631-path-with-minimum-effort](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1765-map-of-highest-peak) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -446,6 +449,7 @@
 | [0743-network-delay-time](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Heap (Priority Queue)
 |  |
@@ -457,6 +461,7 @@
 | [1514-path-with-maximum-probability](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Shortest Path
 |  |
@@ -464,6 +469,7 @@
 | [0743-network-delay-time](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Search
 |  |
 | ------- |
