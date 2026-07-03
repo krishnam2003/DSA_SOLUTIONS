@@ -93,6 +93,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2540-minimum-common-value](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2540-minimum-common-value) |
@@ -145,6 +146,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2540-minimum-common-value](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -247,6 +249,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
@@ -314,6 +317,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2784-check-if-array-is-good](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2943-maximize-area-of-square-hole-in-grid) |
