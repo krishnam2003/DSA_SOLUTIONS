@@ -189,6 +189,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0062-unique-paths) |
 | [0474-ones-and-zeroes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0646-maximum-length-of-pair-chain) |
@@ -208,6 +209,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0263-ugly-number) |
 | [0836-rectangle-overlap](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0836-rectangle-overlap) |
@@ -571,4 +573,8 @@
 | [0023-merge-k-sorted-lists](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0023-merge-k-sorted-lists) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
