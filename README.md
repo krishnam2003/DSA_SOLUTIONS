@@ -15,6 +15,7 @@
 | [0058-length-of-last-word](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0290-word-pattern) |
 | [0451-sort-characters-by-frequency](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0474-ones-and-zeroes) |
 | [0657-robot-return-to-origin](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0657-robot-return-to-origin) |
@@ -137,6 +138,7 @@
 | [0073-set-matrix-zeroes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0290-word-pattern) |
 | [0451-sort-characters-by-frequency](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
