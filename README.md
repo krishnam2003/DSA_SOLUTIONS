@@ -18,6 +18,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0474-ones-and-zeroes) |
 | [0657-robot-return-to-origin](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0657-robot-return-to-origin) |
+| [0771-jewels-and-stones](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0771-jewels-and-stones) |
 | [0942-di-string-match](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0944-delete-columns-to-make-sorted) |
 | [1189-maximum-number-of-balloons](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1189-maximum-number-of-balloons) |
@@ -138,6 +139,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0771-jewels-and-stones) |
 | [0874-walking-robot-simulation](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
