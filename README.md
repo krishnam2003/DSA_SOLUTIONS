@@ -467,6 +467,7 @@
 | [0743-network-delay-time](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0743-network-delay-time) |
 | [0997-find-the-town-judge](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0997-find-the-town-judge) |
 | [1514-path-with-maximum-probability](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1514-path-with-maximum-probability) |
+| [1791-find-center-of-star-graph](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1791-find-center-of-star-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
