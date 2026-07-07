@@ -369,6 +369,7 @@
 | [0101-symmetric-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0130-surrounded-regions) |
+| [0199-binary-tree-right-side-view](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0547-number-of-provinces) |
@@ -385,6 +386,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0130-surrounded-regions) |
+| [0199-binary-tree-right-side-view](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0542-01-matrix) |
@@ -442,6 +444,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0199-binary-tree-right-side-view) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
@@ -451,6 +454,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0199-binary-tree-right-side-view) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
