@@ -32,7 +32,7 @@ public:
     // }
 
 
-    void bfs(int row, int col, vector<vector<char>>& grid){
+    void dfs(int row, int col, vector<vector<char>>& grid){
         int n = grid.size();
         int m = grid[0].size();
 
@@ -47,7 +47,7 @@ public:
             int nbrCol = col + dy[i];
 
             if(nbrRow >=0 && nbrRow < n && nbrCol >=0 && nbrCol < m && grid[nbrRow][nbrCol]== '1'){
-                bfs(nbrRow, nbrCol, grid);
+                dfs(nbrRow, nbrCol, grid);
             }
                 
             
@@ -66,7 +66,7 @@ public:
             for(int col = 0; col<m; col++){
                 if(grid[row][col] == '1'){
                     count++;
-                    bfs(row, col, grid);
+                    dfs(row, col, grid);
                 }
             }
         }
