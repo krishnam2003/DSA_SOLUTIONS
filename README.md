@@ -59,6 +59,7 @@
 | [0169-majority-element](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0455-assign-cookies) |
@@ -275,6 +276,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0733-flood-fill) |
@@ -370,6 +372,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0547-number-of-provinces) |
@@ -387,6 +390,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0542-01-matrix) |
@@ -522,6 +526,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0547-number-of-provinces) |
 | [1631-path-with-minimum-effort](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2812-find-the-safest-path-in-a-grid) |
