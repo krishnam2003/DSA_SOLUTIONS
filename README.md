@@ -477,6 +477,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0743-network-delay-time) |
 | [0997-find-the-town-judge](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0997-find-the-town-judge) |
 | [1514-path-with-maximum-probability](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1514-path-with-maximum-probability) |
@@ -521,6 +522,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0547-number-of-provinces) |
 | [1631-path-with-minimum-effort](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
