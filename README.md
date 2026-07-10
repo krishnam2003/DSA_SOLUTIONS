@@ -487,6 +487,7 @@
 | [0210-course-schedule-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0743-network-delay-time) |
+| [0802-find-eventual-safe-states](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0802-find-eventual-safe-states) |
 | [0997-find-the-town-judge](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0997-find-the-town-judge) |
 | [1514-path-with-maximum-probability](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1514-path-with-maximum-probability) |
 | [1791-find-center-of-star-graph](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1791-find-center-of-star-graph) |
