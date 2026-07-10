@@ -2,11 +2,12 @@ class Solution {
 public:
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
         int n = graph.size();
-        vector<vector<int>> Radj(n);
+        
+        vector<vector<int>> reverseAdjList(n);
         vector<int> indegree(n, 0);
         for(int i=0; i<n; i++){
-            for(auto& nbr : graph[i]){
-                Radj[nbr].push_back(i);
+            for(auto& it : graph[i]){
+                reverseAdjList[it].push_back(i); // reverse the adj list to make outdegree to indegree of terminal node
                 indegree[i]++;
             }
         }
@@ -17,12 +18,12 @@ public:
                 q.push(i);
             }
         }
-        vector<int> ans;
+        vector<int> topo;
         while(!q.empty()){
             int f = q.front();
             q.pop();
-            ans.push_back(f);
-            for(int nbr : Radj[f]){
+            topo.push_back(f);
+            for(int nbr : reverseAdjList[f]){
                 indegree[nbr]--;
                 if(indegree[nbr] == 0){
                     q.push(nbr);
@@ -30,8 +31,8 @@ public:
             }
         }
 
-        sort(ans.begin(), ans.end());
+        sort(topo.begin(), topo.end());
 
-        return ans;
+        return topo;
     }
 };
