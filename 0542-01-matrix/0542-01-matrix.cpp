@@ -20,7 +20,7 @@ public:
             q.pop();
             for(int i=0;i<4;i++){
                 int nr = r + dr[i], nc = c + dc[i];
-                if(nr>=0 && nr<m && nc>= 0 && nc<n && mat[nr][nc] == 1){
+                if(nr>=0 && nr<m && nc>= 0 && nc<n){
                     if(1+ans[r][c] < ans[nr][nc]) {
                         ans[nr][nc] = 1 + ans[r][c];
                         q.push({nr, nc});
