@@ -56,6 +56,7 @@
 | [0073-set-matrix-zeroes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0130-surrounded-regions](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0179-largest-number) |
@@ -433,6 +434,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0191-number-of-1-bits) |
 | [0461-hamming-distance](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0461-hamming-distance) |
