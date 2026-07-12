@@ -230,6 +230,7 @@
 | [0509-fibonacci-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0836-rectangle-overlap](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0836-rectangle-overlap) |
+| [1017-convert-to-base-2](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1017-convert-to-base-2) |
 | [1248-count-number-of-nice-subarrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1622-fancy-sequence](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1622-fancy-sequence) |
