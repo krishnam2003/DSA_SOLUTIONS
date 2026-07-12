@@ -224,6 +224,7 @@
 | [0069-sqrtx](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0509-fibonacci-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0836-rectangle-overlap](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -434,6 +435,7 @@
 | [0190-reverse-bits](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0191-number-of-1-bits) |
 | [0461-hamming-distance](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0461-hamming-distance) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1009-complement-of-base-10-integer](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1009-complement-of-base-10-integer) |
 | [1310-xor-queries-of-a-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1310-xor-queries-of-a-subarray) |
