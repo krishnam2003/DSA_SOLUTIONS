@@ -230,6 +230,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1622-fancy-sequence](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1688-count-of-matches-in-tournament](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1688-count-of-matches-in-tournament) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -553,6 +554,7 @@
 | [0566-reshape-the-matrix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0874-walking-robot-simulation) |
+| [1688-count-of-matches-in-tournament](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1688-count-of-matches-in-tournament) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2390-removing-stars-from-a-string](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2390-removing-stars-from-a-string) |
