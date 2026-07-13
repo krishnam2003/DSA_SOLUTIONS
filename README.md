@@ -318,6 +318,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1291-sequential-digits) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Divide and Conquer
