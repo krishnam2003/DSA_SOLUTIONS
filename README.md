@@ -10,6 +10,7 @@
 | [0006-zigzag-conversion](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0058-length-of-last-word) |
@@ -371,6 +372,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
