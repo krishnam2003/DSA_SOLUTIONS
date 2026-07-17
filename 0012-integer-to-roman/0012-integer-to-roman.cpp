@@ -18,11 +18,10 @@ public:
         };
 
         string ans;
-
-        for (auto &p : roman) {
-            while (num >= p.first) {
-                ans += p.second;
-                num -= p.first;
+        for(auto &p : roman){
+            while(num >= p.first){
+                ans = ans + p.second;
+                num = num - p.first;
             }
         }
 
