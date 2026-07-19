@@ -24,6 +24,7 @@
 | [0771-jewels-and-stones](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0771-jewels-and-stones) |
 | [0942-di-string-match](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0944-delete-columns-to-make-sorted) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -265,6 +266,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0942-di-string-match) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -378,6 +380,7 @@
 | [0020-valid-parentheses](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -385,6 +388,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Depth-First Search
 |  |
 | ------- |
