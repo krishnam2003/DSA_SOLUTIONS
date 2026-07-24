@@ -120,6 +120,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2615-sum-of-distances) |
 | [2625-increment-submatrices-by-one](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2625-increment-submatrices-by-one) |
+| [2653-sliding-subarray-beauty](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2653-sliding-subarray-beauty) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -177,6 +178,7 @@
 | [2225-find-players-with-zero-or-one-losses](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2540-minimum-common-value](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2615-sum-of-distances) |
+| [2653-sliding-subarray-beauty](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2653-sliding-subarray-beauty) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -329,6 +331,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2653-sliding-subarray-beauty](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2653-sliding-subarray-beauty) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Enumeration
 |  |
