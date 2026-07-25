@@ -29,6 +29,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -248,6 +249,7 @@
 | [1017-convert-to-base-2](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1017-convert-to-base-2) |
 | [1248-count-number-of-nice-subarrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1622-fancy-sequence](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1688-count-of-matches-in-tournament](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1688-count-of-matches-in-tournament) |
