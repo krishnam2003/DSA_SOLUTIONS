@@ -15,6 +15,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0290-word-pattern) |
@@ -61,6 +62,7 @@
 | [0053-maximum-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0130-surrounded-regions](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0136-single-number) |
@@ -308,6 +310,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0542-01-matrix) |
@@ -411,6 +414,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -621,6 +625,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0079-word-search) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Design
 |  |
