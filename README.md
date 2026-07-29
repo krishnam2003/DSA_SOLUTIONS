@@ -88,6 +88,7 @@
 | [0739-daily-temperatures](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0874-walking-robot-simulation) |
+| [0875-koko-eating-bananas](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0944-delete-columns-to-make-sorted) |
@@ -586,6 +587,7 @@
 | [0268-missing-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0875-koko-eating-bananas](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0875-koko-eating-bananas) |
 | [1552-magnetic-force-between-two-balls](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 | [2540-minimum-common-value](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2540-minimum-common-value) |
