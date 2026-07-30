@@ -76,6 +76,7 @@
 | [0268-missing-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0496-next-greater-element-i) |
@@ -201,6 +202,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0724-find-pivot-index) |
 | [1248-count-number-of-nice-subarrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
@@ -224,6 +226,7 @@
 | [0053-maximum-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0198-house-robber) |
+| [0410-split-array-largest-sum](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0542-01-matrix) |
@@ -279,6 +282,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0179-largest-number) |
+| [0410-split-array-largest-sum](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0860-lemonade-change) |
@@ -587,6 +591,7 @@
 | [0268-missing-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0875-koko-eating-bananas) |
 | [1552-magnetic-force-between-two-balls](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
