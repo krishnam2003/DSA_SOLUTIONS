@@ -73,6 +73,7 @@
 | [0179-largest-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -321,6 +322,7 @@
 | [0079-word-search](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0733-flood-fill) |
@@ -366,6 +368,7 @@
 | [0169-majority-element](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -589,6 +592,7 @@
 | [0069-sqrtx](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
