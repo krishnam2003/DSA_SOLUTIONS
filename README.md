@@ -108,6 +108,7 @@
 | [1310-xor-queries-of-a-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1310-xor-queries-of-a-subarray) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1472-design-browser-history](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1472-design-browser-history) |
 | [1514-path-with-maximum-probability](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1514-path-with-maximum-probability) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1552-magnetic-force-between-two-balls](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1552-magnetic-force-between-two-balls) |
@@ -420,6 +421,7 @@
 | [0496-next-greater-element-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1472-design-browser-history](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1472-design-browser-history) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -657,6 +659,7 @@
 ## Design
 |  |
 | ------- |
+| [1472-design-browser-history](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1472-design-browser-history) |
 | [1622-fancy-sequence](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1622-fancy-sequence) |
 ## Segment Tree
 |  |
@@ -675,6 +678,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
+| [1472-design-browser-history](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Trie
@@ -714,4 +718,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0509-fibonacci-number) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
