@@ -75,6 +75,7 @@
 | [0179-largest-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0200-number-of-islands) |
+| [0229-majority-element-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
@@ -172,6 +173,7 @@
 | [0073-set-matrix-zeroes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0290-word-pattern) |
@@ -312,6 +314,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
@@ -383,6 +386,7 @@
 | [0049-group-anagrams](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
@@ -726,4 +730,8 @@
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1472-design-browser-history) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
