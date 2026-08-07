@@ -452,6 +452,7 @@
 | [0200-number-of-islands](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0210-course-schedule-ii) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -541,6 +542,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -556,6 +558,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -771,4 +774,13 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0098-validate-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
