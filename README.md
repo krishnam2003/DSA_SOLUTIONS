@@ -424,6 +424,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0739-daily-temperatures) |
@@ -444,6 +445,7 @@
 | [0100-same-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0130-surrounded-regions](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0200-number-of-islands) |
@@ -535,6 +537,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -548,6 +551,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -695,6 +699,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [1472-design-browser-history](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1472-design-browser-history) |
