@@ -22,6 +22,10 @@ public:
 
                 mp[s[left]]--;
 
+                if (mp[s[left]] == 0) {
+                    mp.erase(s[left]);
+                }
+
                 left++;
             }
 
