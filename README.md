@@ -19,6 +19,7 @@
 | [0179-largest-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0290-word-pattern) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0443-string-compression](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0474-ones-and-zeroes) |
@@ -180,6 +181,7 @@
 | [0290-word-pattern](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0451-sort-characters-by-frequency](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
@@ -356,6 +358,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0978-longest-turbulent-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0978-longest-turbulent-subarray) |
 | [1248-count-number-of-nice-subarrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -378,6 +381,7 @@
 | [0190-reverse-bits](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0912-sort-an-array](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0912-sort-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
