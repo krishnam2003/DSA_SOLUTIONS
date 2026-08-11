@@ -100,6 +100,7 @@
 | [0875-koko-eating-bananas](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0912-sort-an-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
 | [0942-di-string-match](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
@@ -189,6 +190,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0771-jewels-and-stones) |
 | [0874-walking-robot-simulation](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0874-walking-robot-simulation) |
+| [0930-binary-subarrays-with-sum](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
 | [0997-find-the-town-judge](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1207-unique-number-of-occurrences) |
@@ -218,6 +220,7 @@
 | [0410-split-array-largest-sum](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1310-xor-queries-of-a-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1310-xor-queries-of-a-subarray) |
 | [1590-make-sum-divisible-by-p](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1590-make-sum-divisible-by-p) |
@@ -362,6 +365,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
 | [0978-longest-turbulent-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0978-longest-turbulent-subarray) |
 | [1248-count-number-of-nice-subarrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
