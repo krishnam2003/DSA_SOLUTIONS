@@ -1,26 +1,28 @@
 class Solution {
 public:
     int numberOfSubarrays(vector<int>& nums, int k) {
-        // Helper function: count subarrays with at most k odd numbers
-        auto atMost = [&](int k) {
-            if (k < 0) return 0;
-            int left = 0, count = 0, oddCount = 0;
-            
-            for (int right = 0; right < nums.size(); right++) {
-                if (nums[right] % 2 == 1) oddCount++;
-                
-                // Shrink window if oddCount exceeds k
-                while (oddCount > k) {
-                    if (nums[left] % 2 == 1) oddCount--;
-                    left++;
-                }
-                
-                // All subarrays ending at 'right' are valid
-                count += (right - left + 1);
+        int n  = nums.size();
+
+
+        unordered_map<int, int> mp;
+        mp[0] = 1;
+
+        int cnt = 0;
+        int prefixSum = 0;
+
+        for(int i=0; i<n; i++){
+            if(nums[i] % 2 == 1){
+                prefixSum += 1;
             }
-            return count;
-        };
-        
-        return atMost(k) - atMost(k - 1);
+            
+
+            if(mp.find(prefixSum - k) != mp.end()){
+                cnt += mp[prefixSum - k];
+            }
+
+            mp[prefixSum]++;
+        }
+
+        return cnt;
     }
 };
