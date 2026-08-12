@@ -805,4 +805,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
