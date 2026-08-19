@@ -823,4 +823,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
