@@ -82,6 +82,7 @@
 | [0229-majority-element-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -249,6 +250,7 @@
 | [0053-maximum-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0509-fibonacci-number) |
@@ -661,6 +663,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
@@ -827,4 +830,8 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1143-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
