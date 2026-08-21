@@ -66,6 +66,7 @@
 | [0049-group-anagrams](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
@@ -250,6 +251,7 @@
 | [0005-longest-palindromic-substring](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
@@ -346,6 +348,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
