@@ -66,6 +66,7 @@
 | [0049-group-anagrams](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0079-word-search) |
@@ -249,6 +250,7 @@
 | [0005-longest-palindromic-substring](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
@@ -344,6 +346,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0079-word-search) |
