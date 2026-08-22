@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool checkDivisibility(int n) {
-        int ans  = n;
+        int realNum  = n;
         int sum = 0;
         int product  = 1;
         while(n >0){
@@ -13,7 +13,7 @@ public:
 
         int total = sum + product;
 
-        if(ans % total == 0) return true;
+        if(realNum % total == 0) return true;
 
         return false;
     }
