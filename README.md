@@ -728,6 +728,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0077-combinations](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0079-word-search) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Design
