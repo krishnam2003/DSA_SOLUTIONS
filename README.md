@@ -179,6 +179,7 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3838-weighted-word-mapping](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3838-weighted-word-mapping) |
+| [3875-construct-uniform-parity-array-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -312,6 +313,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3875-construct-uniform-parity-array-i) |
 ## Number Theory
 |  |
 | ------- |
