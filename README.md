@@ -17,6 +17,7 @@
 | [0058-length-of-last-word](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0079-word-search) |
+| [0132-palindrome-partitioning-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0132-palindrome-partitioning-ii) |
 | [0179-largest-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0290-word-pattern) |
@@ -268,6 +269,7 @@
 | [0063-unique-paths-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0072-edit-distance) |
+| [0132-palindrome-partitioning-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0322-coin-change) |
