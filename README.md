@@ -325,6 +325,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3870-count-commas-in-range](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3875-construct-uniform-parity-array-i) |
 ## Number Theory
