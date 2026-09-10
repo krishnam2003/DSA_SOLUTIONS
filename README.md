@@ -528,6 +528,7 @@
 | [0743-network-delay-time](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0802-find-eventual-safe-states) |
 | [1631-path-with-minimum-effort](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -616,6 +617,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -633,6 +635,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Two Pointers
 |  |
 | ------- |
