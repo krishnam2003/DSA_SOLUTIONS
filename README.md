@@ -16,6 +16,7 @@
 | [0049-group-anagrams](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0079-word-search) |
 | [0132-palindrome-partitioning-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0132-palindrome-partitioning-ii) |
 | [0179-largest-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0179-largest-number) |
@@ -195,6 +196,7 @@
 | [0012-integer-to-roman](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0229-majority-element-ii) |
@@ -413,6 +415,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
