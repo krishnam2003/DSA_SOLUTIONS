@@ -601,6 +601,7 @@
 | [0137-single-number-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0461-hamming-distance) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -627,6 +628,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -645,6 +647,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -721,6 +724,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
