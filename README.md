@@ -127,6 +127,7 @@
 | [0978-longest-turbulent-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0978-longest-turbulent-subarray) |
 | [0994-rotting-oranges](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0997-find-the-town-judge) |
+| [1020-number-of-enclaves](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1020-number-of-enclaves) |
 | [1207-unique-number-of-occurrences](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1260-shift-2d-grid) |
@@ -404,6 +405,7 @@
 | [0566-reshape-the-matrix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1260-shift-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
@@ -542,6 +544,7 @@
 | [0733-flood-fill](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0802-find-eventual-safe-states) |
+| [1020-number-of-enclaves](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2685-count-the-number-of-complete-components) |
@@ -569,6 +572,7 @@
 | [0802-find-eventual-safe-states](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0802-find-eventual-safe-states) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0994-rotting-oranges](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1765-map-of-highest-peak) |
 | [2685-count-the-number-of-complete-components](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2685-count-the-number-of-complete-components) |
@@ -747,6 +751,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2812-find-the-safest-path-in-a-grid) |
