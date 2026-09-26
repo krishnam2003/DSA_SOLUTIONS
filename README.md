@@ -821,6 +821,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0237-delete-node-in-a-linked-list) |
 | [1472-design-browser-history](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
