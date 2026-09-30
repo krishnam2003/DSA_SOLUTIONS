@@ -72,6 +72,7 @@
 | [0049-group-anagrams](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
@@ -475,6 +476,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0229-majority-element-ii) |
@@ -939,4 +941,8 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
