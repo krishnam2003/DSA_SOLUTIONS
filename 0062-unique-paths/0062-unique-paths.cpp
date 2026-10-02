@@ -1,7 +1,7 @@
 class Solution {
 public:
     int solve(int i, int j, vector<vector<int>>& dp){
-        if(i == 0 || j == 0){
+        if(i == 0 && j == 0){
             return 1;
         }
 
