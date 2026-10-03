@@ -14,6 +14,7 @@
 | [0014-longest-common-prefix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0072-edit-distance) |
@@ -279,6 +280,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0063-unique-paths-ii) |
@@ -518,6 +520,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0496-next-greater-element-i) |
@@ -945,4 +948,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0056-merge-intervals) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
