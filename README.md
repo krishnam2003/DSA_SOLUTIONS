@@ -324,6 +324,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0263-ugly-number) |
@@ -619,6 +620,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0190-reverse-bits) |
