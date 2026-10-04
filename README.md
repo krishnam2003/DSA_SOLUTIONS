@@ -31,6 +31,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0474-ones-and-zeroes) |
 | [0657-robot-return-to-origin](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0771-jewels-and-stones) |
 | [0942-di-string-match](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0944-delete-columns-to-make-sorted) |
@@ -302,6 +303,7 @@
 | [0518-coin-change-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0978-longest-turbulent-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0978-longest-turbulent-subarray) |
 | [1143-longest-common-subsequence](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1143-longest-common-subsequence) |
@@ -365,6 +367,7 @@
 | [0435-non-overlapping-intervals](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0942-di-string-match) |
@@ -524,6 +527,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1472-design-browser-history](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1472-design-browser-history) |
@@ -952,4 +956,5 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
