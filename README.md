@@ -33,6 +33,7 @@
 | [0657-robot-return-to-origin](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0771-jewels-and-stones) |
+| [0856-score-of-parentheses](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0856-score-of-parentheses) |
 | [0942-di-string-match](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0944-delete-columns-to-make-sorted) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -530,6 +531,7 @@
 | [0496-next-greater-element-i](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1472-design-browser-history](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1472-design-browser-history) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -959,4 +961,5 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
