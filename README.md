@@ -287,6 +287,7 @@
 | [0062-unique-paths](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -328,6 +329,7 @@
 | [0029-divide-two-integers](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0509-fibonacci-number) |
@@ -883,6 +885,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0509-fibonacci-number) |
 ## Doubly-Linked List
 |  |
