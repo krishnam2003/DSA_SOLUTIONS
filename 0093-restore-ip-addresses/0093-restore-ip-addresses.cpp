@@ -19,6 +19,7 @@ public:
         if(part == 4 && idx == s.size()){
             curr.pop_back();
             ans.push_back(curr);
+            return;
         }
 
         if(idx+1 <= n){
