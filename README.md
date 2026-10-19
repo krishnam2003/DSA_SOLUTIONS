@@ -21,6 +21,7 @@
 | [0072-edit-distance](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0093-restore-ip-addresses) |
 | [0132-palindrome-partitioning-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0132-palindrome-partitioning-ii) |
 | [0179-largest-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0242-valid-anagram) |
@@ -823,6 +824,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0077-combinations](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0093-restore-ip-addresses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Design
 |  |
