@@ -1,7 +1,7 @@
 class Solution {
 public:
     string convert(string s, int numRows) {
-        // Edge case
+        
         if (numRows == 1 || s.size() <= numRows)
             return s;
 
