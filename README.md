@@ -14,6 +14,7 @@
 | [0014-longest-common-prefix](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0049-group-anagrams) |
@@ -287,6 +288,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0062-unique-paths) |
@@ -822,6 +824,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0093-restore-ip-addresses) |
@@ -972,6 +975,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/0856-score-of-parentheses) |
