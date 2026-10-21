@@ -7,20 +7,20 @@ public:
 
         vector<string> rows(numRows);
 
-        int currentRow = 0;
-        bool goingDown = false;
+        int i = 0;
 
-        for (char c : s) {
-            rows[currentRow] += c;
+        while(i < s.size()){
+            for (int index = 0; index < numRows && i < s.size(); index++) {
+                rows[index] += s[i++];
+                
+            }
 
-            // Change direction at first or last row
-            if (currentRow == 0 || currentRow == numRows - 1)
-                goingDown = !goingDown;
-
-            currentRow += goingDown ? 1 : -1;
+            for(int index = numRows-2; index > 0 && i < s.size(); index--){
+                rows[index] += s[i++];
+            }
         }
 
-        // Combine all rows
+
         string result;
         for (string &row : rows)
             result += row;
