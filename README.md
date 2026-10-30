@@ -67,6 +67,7 @@
 | [3614-process-string-with-special-operations-ii](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3614-process-string-with-special-operations-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3838-weighted-word-mapping](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3838-weighted-word-mapping) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Array
 |  |
 | ------- |
@@ -736,6 +737,7 @@
 | [2685-count-the-number-of-complete-components](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -751,6 +753,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
 | ------- |
@@ -758,6 +761,7 @@
 | [1514-path-with-maximum-probability](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/krishnam2003/DSA_SOLUTIONS/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Binary Search
 |  |
 | ------- |
